@@ -1,3 +1,25 @@
 body{
     background-color: rgb(219, 219, 219);
 }
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(9, 116, 41);
+    color: #fff;
+    border-bottom: 5px black solid;
+
+}
+
+.header1{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+
+.header2{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    margin-right: 100px;
+}
