@@ -23,3 +23,23 @@ body{
     gap: 100px;
     margin-right: 100px;
 }
+
+.inter{
+    padding-top: 100px;
+    margin-left: 100px;
+}
+
+img{
+    width: 600px;
+    margin-left: 100px;
+}
+
+.content{
+    display: flex;
+    justify-content: space-between;
+}
+
+p{
+    width: 200px;
+    margin-right: 300px;
+}
